@@ -18,7 +18,7 @@ Salah satu isu yang terjadi beberapa tahun terakhir adalah terkait peningkatan k
 
 **Task:** Membangun model prediktif untuk memprediksi **trend frekuensi**, **trend severitas**, dan **trend total klaim** untuk periode Agustus hingga Desember 2025 pada level per-polis per-bulan.
 
-**Evaluation Metric:** Mean Absolute Percentage Error (MAPE)
+**Evaluation:** Mean Absolute Percentage Error (MAPE)
 
 ## 🧠 Approach
 
