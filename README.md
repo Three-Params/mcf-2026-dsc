@@ -5,7 +5,8 @@
 | Metric | Score (MAPE) |
 |---|---|
 | Public Score | 4.98153 |
-| Private Score | 13.10533 |
+| Private Score | 13.10533 (8th Place) |
+
 
 Naik **98 peringkat** pada private leaderboard🚀
 
